@@ -1,2 +1,2 @@
-# My-first-Repoaitory
-My first GitHub repository created to learn Git and GitHub.
+# OOP Assignment
+Object Oriented Programming assignment submitted for coursework.
